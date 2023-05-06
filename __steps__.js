@@ -7,3 +7,15 @@
  * 6. don't forget to send data by JSON.Stringify in the body: 
  * 7. On the server side: don't forget to use express.json() middleware
 */
+
+
+/* 
+CRUD = Create , Read, Update, Delete
+Create(POST)
+Read(GET)
+Update(PUT)
+Delete(DELETE)    
+
+
+
+*/
